@@ -1,2 +1,3 @@
 # Assignment-0
-Creating a new repository as asked by Assignment 0
+##Creating and practicing with a new repository
+This is an example
